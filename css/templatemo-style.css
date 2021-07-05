@@ -387,7 +387,6 @@ http://www.templatemo.com/tm-515-eatery
     justify-content: center;
     flex-direction: column;
     text-align: left;
-    background-color: rgba(20,20,20,0.2);
     height: 100%;
     color: #fff;
     cursor: e-resize;
@@ -403,7 +402,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .slider .item-first {
-    background-image: url(../images/slider-image1.jpg);
+    background-image: url(../images/eona1.png);
   }
 
   .slider .item-second {
